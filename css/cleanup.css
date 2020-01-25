@@ -11,3 +11,9 @@ tag-1 {
   left: 10px;
   right: 10px;
 }
+
+tag-2 {
+  display: block;
+  text-align: center;
+  margin: 10px;
+}
